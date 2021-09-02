@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692667386827",
+    "project_id": "persistuser",
+    "storage_bucket": "persistuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692667386827:android:352b062dac847a2e02844e",
+        "android_client_info": {
+          "package_name": "cdev.ankith.persistuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692667386827-m2p1qirav3s0qkkkoo39uelaanrkvmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cdev.ankith.persistuser",
+            "certificate_hash": "6781d9f76e190552f5ea39ba3b7cb3dcc03e96f2"
+          }
+        },
+        {
+          "client_id": "692667386827-durfqa6gku28o69h9sirqtvlj0qpso1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ae6ZHwWpmpyWGZ7mCLj4wUqwAZOB2vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692667386827-durfqa6gku28o69h9sirqtvlj0qpso1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
